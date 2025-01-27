@@ -1,11 +1,11 @@
 # Analyzing the Relationship of Housing-Related Factors in Various  Regions and  Locations, and Their Impact on Housing Affordability
 
-The housing landscape in the United States is shaped by dynamic factors, including regional disparities, locational variations, and household demographics. Housing affordability remains a critical issue, especially with the growing cost burden for many households. This study aims to comprehend the intricate relationship between various housing-related factors such as household size, age, location, region, cost burden, household income and assistance. And show how they impact housing affordability. The analysis aims to provide valuable insights for policymakers, housing developers, and other stakeholders to design strategies that would enhance housing affordability and accessibility.
+The housing landscape in the United States is shaped by dynamic factors, including regional disparities, locational variations, and household demographics. Housing affordability remains a critical issue, especially with the growing cost burden for many households. This project aims to comprehend the intricate relationship between various housing-related factors such as household size, age, location, region, cost burden, household income, and assistance and their impact on housing affordability. The analysis aims to provide valuable insights for policymakers, housing developers, and other stakeholders to design strategies that would enhance housing affordability and accessibility.
 
 ---
 
 ## Dataset Description
-The project utilizes the **Housing Affordability Data System (HADS)**, a comprehensive dataset derived from the **American Housing Survey (AHS)**. The dataset includes:
+This project utilizes the **Housing Affordability Data System (HADS)**, a comprehensive dataset derived from the **American Housing Survey (AHS)**. The dataset includes:
 - Housing cost data for renters and owners, covering monthly expenses such as rent, mortgage, and utilities.
 - Affordability metrics based on Area Median Income (AMI), Fair Market Rent (FMR), and poverty thresholds.
 - Variables related to housing adequacy, utility costs, household income, and more.
